@@ -1,2 +1,2 @@
 # GoIt asd
-goit fullstack
+goit fullstack test github
